@@ -6,4 +6,6 @@ console.log("Khởi tạo dự án");
 //  git clone : lấy link cho dự án mới
 // B5: git pull
 console.log("code of Son");
+console.log("New code to friend");
 console.log("code new branch");
+
