@@ -11,3 +11,4 @@ console.log("EM của ngày hôm qua");
 console.log("code new branch");
 console.log("code new branch add");
 console.log("Một ngày mưa rơi tầm tã");
+console.log("Hôm nay biết làm gì bây giờ");
